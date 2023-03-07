@@ -26,7 +26,6 @@ const Hero = () => {
             love doing innovative things.{" "}
           </motion.span>
         </div>
-
         <motion.div
           variants={fadeIn("up", "tween", 0.3, 1)}
           className={css.person}
