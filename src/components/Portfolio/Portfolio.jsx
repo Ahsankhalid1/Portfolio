@@ -26,8 +26,8 @@ const Portfolio = () => {
 
 
         <div className={`flexCenter ${css.showCase}`}>
-            <motion.img variants={fadeIn("up", "tween", .5, .6)} src="./COAL.PNG" alt="project" />
-            <motion.img variants={fadeIn("up", "tween", .7, .6)} src="./Image_recogntion.PNG" alt="project" />
+            <motion.img variants={fadeIn("up", "tween", .5, .6)} src="./Coal.png" alt="project" />
+            <motion.img variants={fadeIn("up", "tween", .7, .6)} src="./Image_recognition.png" alt="project" />
             <motion.img variants={fadeIn("up", "tween", .9, .6)} src="./showCase3.png" alt="project" />
         </div>
       </div>
