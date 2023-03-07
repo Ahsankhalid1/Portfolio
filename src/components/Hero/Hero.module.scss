@@ -76,12 +76,20 @@
             //     }
             //     margin-bottom: -5px;
             // }
+            img.responsive {
+                width: auto;
+                height: auto;
+               
+                object-fit: cover;
+             }
             img {
                width: 475px;
                height: 400px;
               
                object-fit: cover;
             }
+
+           
         }
 
         .email {
