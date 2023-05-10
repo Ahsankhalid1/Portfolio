@@ -4,32 +4,32 @@ import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
     name: "Web",
-    projects: 36,
+    projects: 11,
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
   {
     name: "Android",
-    projects: 23,
+    projects: 7,
     icon: CiMobile1,
     bg: "#EEC048",
   },
-  {
-    name: "Design",
-    projects: 19,
-    icon: MdWorkspacesOutline,
-    bg: "#F26440",
-  },
+  // {
+  //   name: "Design",
+  //   projects: 19,
+  //   icon: MdWorkspacesOutline,
+  //   bg: "#F26440",
+  // },
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finging a solution and solve your problem. Passionate to craft innovative web and mobile products.",
+  "I will help you with finding a solution and solve your problem. Passionate to craft innovative web and mobile products.",
 ];
 
 export const workExp = [
   {
     place: "Be My Voice",
-    tenure: "2022*",
+    tenure: "2023",
     role: "AI Based Android App",
     detail:
       "Artificial Intelligence based real time android application made with the help of Pakistan Sign Language(PSL)",
