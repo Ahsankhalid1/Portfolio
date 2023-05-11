@@ -44,13 +44,13 @@ const Experties = () => {
 
                 <div className={`flexCenter ${css.stats}`}>
                     <div className={`flexCenter ${css.stat}`}>
-                        <span className='primaryText'>90+</span>
+                        <span className='primaryText'>15+</span>
                         <span className='secondaryText'>Project Completed</span>
                     </div>
-                    <div className={`flexCenter ${css.stat}`}>
+                    {/* <div className={`flexCenter ${css.stat}`}>
                         <span className='primaryText'>40+</span>
                         <span className='secondaryText'>Happy Clients</span>
-                    </div>
+                    </div> */}
                 </div>
             </motion.div>
         </motion.div>

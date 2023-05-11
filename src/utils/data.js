@@ -35,7 +35,7 @@ export const workExp = [
       "Artificial Intelligence based real time android application made with the help of Pakistan Sign Language(PSL)",
   },
   {
-    place: "TEXTIFY",
+    place: "MAPCHAT",
     tenure: "2022",
     role: "Web App",
     detail:
