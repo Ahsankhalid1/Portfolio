@@ -4,13 +4,13 @@ import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
     name: "Web",
-    projects: 11,
+    projects: 7,
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
   {
     name: "Android",
-    projects: 7,
+    projects: 3,
     icon: CiMobile1,
     bg: "#EEC048",
   },

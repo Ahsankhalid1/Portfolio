@@ -44,8 +44,8 @@ const Experties = () => {
 
                 <div className={`flexCenter ${css.stats}`}>
                     <div className={`flexCenter ${css.stat}`}>
-                        <span className='primaryText'>15+</span>
-                        <span className='secondaryText'>Project Completed</span>
+                        <span className='primaryText'>              15+</span>
+                        <span className='secondaryText'>        Project Completed</span>
                     </div>
                     {/* <div className={`flexCenter ${css.stat}`}>
                         <span className='primaryText'>40+</span>
